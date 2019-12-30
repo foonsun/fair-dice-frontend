@@ -1,4 +1,5 @@
 # dice
+使用eos公链的一个简单的区块链🎲前端。
 
 ## Project setup
 ```
